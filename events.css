@@ -1,0 +1,52 @@
+
+.makelarger {
+
+	font-size: 26px;
+
+}
+
+
+.border {
+
+	border : solid red 2px ;
+}
+
+
+.rounded {
+
+	border : 2px solid;
+	border-radius : 60px 60px 60px 60px ;
+}
+
+.articlesection1 {
+
+	font-style: bold;
+}
+
+.articlesection2 {
+
+	font-style : bold;
+	font-style: italic;
+}
+
+
+.bluecolor {
+
+	color: blue;
+}
+
+
+button {
+	display: block;
+}
+
+#first {
+
+ 	font-weight: bold;
+
+}
+
+#last {
+
+	font-style : italic;
+}
